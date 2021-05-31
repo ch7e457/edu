@@ -3,4 +3,53 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#ff0000</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00CC00</color>
+    <color name="yellow">#ffff00</color>
+    <color name="transparent">#00000000</color>
+    <color name="youpin_top_bg">#808080</color><!--优品首页标签颜色 -->
+    <color name="common_bg">#f3f3f3</color><!-- 通用背景颜色  -->
+    <color name="title_bg">#1e1c21</color>
+    <color name="theme_color">#999</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_595959">#595959</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_d1d1d1">#d1d1d1</color>
+    <color name="color_cacaca">#cacaca</color>
+    <color name="color_5b5b5b">#5b5b5b</color>
+    <color name="color_f32c31">#f32c31</color>
+    <color name="mine_info_line">#eaeaea</color>
+    <color name="title_red">#f62828</color>
+
+    <color name="biz_audio_progress_bg">#00b2ff</color>
+    <color name="biz_audio_progress_first">#ffffff</color>
+    <color name="biz_audio_progress_second">#6b6666</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="lightgreen">#99CC33</color>
+    <color name="grad">#f0f0f0</color>
+    <color name="shop_detail_line">#cccccc</color>
+    <color name="comment_name">#01a8ff</color>
+    <color name="mix_edit_text_color">#212121</color>
+    <!--首页-->
+    <color name="home_line_bg">#d8d8d8</color>
+    <color name="home_tab_textcolor_normal">#8d8d8d</color>
+    <!--购物车-->
+    <color name="shopcar_dikou_color">#f62323</color>
+    <color name="shopcar_price_color">#df2928</color>
+    <color name="goods_preprice_color">#222222</color>
+    <color name="line_heng">#aaaaaa</color>
+    <color name="line_shu">#bebebe</color>
+    <color name="line_adress">#f0f0f0</color>
+    <color name="red_two">#ea6146</color>
+    <color name="photo_detail_text_gray">#bcbab9</color>
+    <color name="heychat_title_bg">#f6f6f8</color>
+    <color name="heychat_title_sel">#e93c38</color>
 </resources>

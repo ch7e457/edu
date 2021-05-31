@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="anim_speed">500</integer>
+    <dimen name="tag_corner_radius">5.0dip</dimen>
+    <dimen name="tag_horizontal_spacing">5.0dip</dimen>
+    <dimen name="tag_vertical_spacing">6.0dip</dimen>
+</resources>

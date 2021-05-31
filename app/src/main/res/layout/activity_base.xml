@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/_rl_title"
+        android:background="@color/title_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="20dp"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/ic_arrow_left_white" />
+
+        <TextView
+            android:id="@+id/_baseLeft_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:textSize="14sp"
+            android:padding="13dp"
+            android:textColor="@color/mine_info_line"
+            android:text="" />
+
+        <TextView
+            android:id="@+id/_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:textColor="@color/white"/>
+
+        <FrameLayout
+            android:id="@+id/_right"
+            android:visibility="visible"
+            android:layout_alignParentRight="true"
+            android:minWidth="40dp"
+            android:gravity="center"
+            android:padding="5dp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/icon_right"
+                android:visibility="visible"
+                android:layout_marginRight="10dp"
+                android:clickable="false"
+                android:layout_gravity="center_vertical|right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/_baseRight_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="15sp"
+                android:padding="5dp"
+                android:textColor="@color/white"
+                android:text="" />
+
+            </FrameLayout>
+
+        <ImageView
+            android:id="@+id/icon_right_two"
+            android:visibility="visible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="15dp"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:layout_toLeftOf="@+id/_right"
+            android:layout_centerVertical="true"
+            />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white">
+
+
+        <FrameLayout
+            android:id="@+id/_float_layout"
+            android:layout_width="match_parent"
+            android:visibility="invisible"
+            android:background="@android:color/white"
+            android:layout_height="match_parent">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/_data_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white">
+
+        </FrameLayout>
+
+        <View
+            android:id="@+id/_error_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:background="@color/white"/>
+
+    </FrameLayout>
+</LinearLayout>
