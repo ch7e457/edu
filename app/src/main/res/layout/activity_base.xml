@@ -7,7 +7,7 @@
         android:id="@+id/_rl_title"
         android:background="@color/title_bg"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="60dp">
 
         <ImageView
             android:id="@+id/_back"

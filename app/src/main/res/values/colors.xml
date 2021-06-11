@@ -12,7 +12,7 @@
     <color name="transparent">#00000000</color>
     <color name="youpin_top_bg">#808080</color><!--优品首页标签颜色 -->
     <color name="common_bg">#f3f3f3</color><!-- 通用背景颜色  -->
-    <color name="title_bg">#1e1c21</color>
+    <color name="title_bg">#069dd5</color>
     <color name="theme_color">#999</color>
     <color name="color_333333">#333333</color>
     <color name="color_595959">#595959</color>
@@ -52,4 +52,5 @@
     <color name="photo_detail_text_gray">#bcbab9</color>
     <color name="heychat_title_bg">#f6f6f8</color>
     <color name="heychat_title_sel">#e93c38</color>
+    <color name="register_title">#069dd5</color>
 </resources>

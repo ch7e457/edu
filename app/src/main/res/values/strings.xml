@@ -1,3 +1,88 @@
 <resources>
-    <string name="app_name">edu</string>
+    <string name="app_name">职教云学堂</string>
+
+    <array name="home_title">
+        <item>汽车电气构造与维修</item>
+        <item>汽车发动机构造与维修</item>
+        <item>汽车维护保养</item>
+        <item>汽车钣金技术</item>
+        <item>汽车故障诊断与排除</item>
+        <item>汽车底盘狗仔与维护</item>
+        <item>汽车自动变速器构造与维修</item>
+        <item>汽车空调维修</item>
+        <item>汽车发动机电控系统检修</item>
+        <item>汽车涂装</item>
+        <item>汽车文化</item>
+        <item>平面设计</item>
+        <item>三维设计</item>
+        <item>国产车系</item>
+        <item>日本车系</item>
+        <item>韩国车系</item>
+        <item>美国车系</item>
+        <item>德国车系</item>
+        <item>法国车系</item>
+    </array>
+    <array name="home_name">
+        <item>杨老师</item>
+        <item>宋老师</item>
+        <item>王老师</item>
+        <item>贺老师</item>
+        <item>秦老师</item>
+        <item>杨老师</item>
+        <item>尹老师</item>
+        <item>王老师</item>
+        <item>王老师</item>
+        <item>冯老师</item>
+        <item>孙老师</item>
+        <item>杨老师</item>
+        <item>世纪龙科技</item>
+        <item>SJL</item>
+        <item>SJL</item>
+        <item>SJL</item>
+        <item>SJL</item>
+        <item>SJL</item>
+        <item>SJL</item>
+    </array>
+    <array name="home_number">
+        <item>1949</item>
+        <item>2075</item>
+        <item>562</item>
+        <item>601</item>
+        <item>249</item>
+        <item>442</item>
+        <item>591</item>
+        <item>374</item>
+        <item>233</item>
+        <item>107</item>
+        <item>531</item>
+        <item>308</item>
+        <item>460</item>
+        <item>81</item>
+        <item>57</item>
+        <item>36</item>
+        <item>32</item>
+        <item>41</item>
+        <item>49</item>
+    </array>
+    <array name="home_class">
+        <item>62</item>
+        <item>81</item>
+        <item>33</item>
+        <item>40</item>
+        <item>127</item>
+        <item>77</item>
+        <item>58</item>
+        <item>52</item>
+        <item>31</item>
+        <item>55</item>
+        <item>1</item>
+        <item>9</item>
+        <item>2</item>
+        <item>48</item>
+        <item>38</item>
+        <item>37</item>
+        <item>42</item>
+        <item>37</item>
+        <item>8</item>
+    </array>
 </resources>
